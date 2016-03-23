@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MetalSmith]]></title>
+        <description><![CDATA[MetalSmith]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 23:41:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MSS Test]]></title>
+            <description><![CDATA[<article><h1>MSS Test</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6366b92d0186f2552e9f2d34e568af6ee311b4a.jpg"></article>]]></description>
+            <link>undefinedmss-test/index.html</link>
+            <guid isPermaLink="false">df6bf85c-88ef-4182-882c-2009aa0dc311</guid>
+            <pubDate>Wed, 23 Mar 2016 23:41:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
