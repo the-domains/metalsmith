@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: MetalSmith
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7843975271098316
+  saturation: 0.7843975
   brandStrength: 0.4910394
-  lightness: 0.7802919012028724
+  lightness: 0.750896
   brandColors:
     - '#ffffff'
     - '#53575a'
     - '#0a0700'
     - '#75b61a'
     - '#c5c4c2'
-  rhythmicContrast: 0.8260499394964427
+  rhythmicContrast: 0.3942652
 typography_spectrum: 0.76307
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: MetalSmith
+layout_spectrum: 0.7401434
