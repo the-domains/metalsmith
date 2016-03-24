@@ -1,28 +1,40 @@
-name: MetalSmith
 favicon: null
-layout_spectrum: 0.5329
-typography_spectrum: 0.76307
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: MetalSmith
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7843975271098316
+  brandStrength: 1
+  lightness: 0.7802919012028724
   brandColors:
     - '#ffffff'
     - '#53575a'
     - '#0a0700'
     - '#75b61a'
     - '#c5c4c2'
-  brandStrength: 0.6514087934046984
-  lightness: 0.7802919012028724
-  saturation: 0.7843975271098316
   rhythmicContrast: 0.8260499394964427
-purpose: []
+typography_spectrum: 0.76307
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5329
+analytics:
+  twitter: null
+  google: null
+  facebook: null
