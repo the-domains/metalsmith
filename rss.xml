@@ -4,14 +4,14 @@
         <description><![CDATA[MetalSmith]]></description>
         <link>https://thegrid.ai/metalsmith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 23:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 02:46:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metalsmith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MSS Test]]></title>
             <description><![CDATA[<article><h1>MSS Test</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6366b92d0186f2552e9f2d34e568af6ee311b4a.jpg"></article>]]></description>
             <link>https://thegrid.ai/metalsmith/mss-test/index.html</link>
             <guid isPermaLink="false">df6bf85c-88ef-4182-882c-2009aa0dc311</guid>
-            <pubDate>Wed, 23 Mar 2016 23:44:25 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 02:46:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
