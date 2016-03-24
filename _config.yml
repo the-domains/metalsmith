@@ -1,4 +1,4 @@
-name: MetalSmith
+name: MetalSmith Solutions
 favicon: null
 layout_spectrum: 0.88645
 typography_spectrum: 0.76307
@@ -37,5 +37,5 @@ color:
   brandStrength: 0.5
   lightness: 0.8125
   saturation: 0.9375
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
